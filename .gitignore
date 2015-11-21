@@ -1,0 +1,6 @@
+# Build results
+/builds/
+
+# Misc stuff not meant to be in the repository 
+/secret/
+
